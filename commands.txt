@@ -1,0 +1,4 @@
+npm init
+npm run start
+npm install express
+npm i dotenv
