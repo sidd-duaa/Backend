@@ -2,3 +2,9 @@ npm init
 npm run start
 npm install express
 npm i dotenv
+
+frontend:
+npm create vite@latest .
+npm i
+npm run dev
+npm i axios
