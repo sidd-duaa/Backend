@@ -1,1 +1,2 @@
 npm init
+npm i -D nodemon => restarts server when made changes (production not affected)
